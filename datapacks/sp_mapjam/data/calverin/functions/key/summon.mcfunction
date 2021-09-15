@@ -1,0 +1,3 @@
+kill @e[tag=key]
+summon minecraft:armor_stand ~ ~ ~ {NoBasePlate:1b,Small:1b,NoGravity:0b,Tags:["key"],ArmorItems:[{},{},{},{id:"minecraft:tripwire_hook",Count:1b,tag:{CustomModelData:1}}],Invisible:1b,Invulnerable:1b,DisabledSlots:2096896,Marker:0b,Silent:1b,Pose:{Head:[90.0f,0.0f,180.0f]}}
+summon minecraft:area_effect_cloud ~ ~ ~ {Tags:["key","key_locate"],Age:-2147483648,Duration:-1,WaitTime:-2147483648}

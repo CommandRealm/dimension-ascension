@@ -1,0 +1,45 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-08-23 06:44:29 +1000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-08-23 06:44:29 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-08-23 07:23:39 +1000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-08-23 06:44:29 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-08-23 07:23:39 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-23 06:45:23 +1000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2021-08-23 07:04:44 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
